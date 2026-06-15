@@ -26,13 +26,13 @@ Repository ini berisi 7 notebook (.ipynb) yang masing-masing merekam proses bela
 
 | No | Pertemuan | Topik | Link Notebook |
 |----|-----------|-------|---------------|
-| 1 | Pertemuan 1 | Pengantar Python untuk Data Science — Output, Variabel, List, Fungsi | [Pertemuan1_Rexxy_Andrew_Gunawan_240401010223.ipynb](https://colab.research.google.com/drive/12jhO-Cmfp_PdrKIwMbI1ldO_bFbfEj6O?usp=sharing) |
-| 2 | Pertemuan 2 | Pandas & NumPy — Eksplorasi Dataset Titanic, Filtering, Groupby | [Pertemuan2_Rexxy_Andrew_Gunawan_240401010223.ipynb](https://colab.research.google.com/drive/10skpV2K1RGo9BEakc3dXCbkXEsFxypn3?usp=sharing) |
-| 3 | Pertemuan 3 | Data Cleaning — Missing Values, Outlier, Normalisasi String, REST API | [Pertemuan3_Rexxy_Andrew_Gunawan_240401010223.ipynb](https://colab.research.google.com/drive/1hEZ5lrQlNwFbysSp-I58UYCgjfX-jzvc?usp=sharing) |
-| 4 | Pertemuan 4 | Statistika Deskriptif & Visualisasi — Distribusi, Korelasi, Heatmap | [Pertemuan4_Rexxy_Andrew_Gunawan_240401010223.ipynb](https://colab.research.google.com/drive/1w_TUrcHaMf5iJ-lOJq0FJjfJReeveA-W?usp=sharing) |
-| 5 | Pertemuan 5 | Dashboard Visualisasi — Matplotlib Gridspec, Seaborn, Analisis Tips | [Pertemuan5_Rexxy_Andrew_Gunawan_240401010223.ipynb](https://colab.research.google.com/drive/1MSP9dSKdTg193p1UfnXxBqbI2bSpJwfg?usp=sharing) |
-| 6 | Pertemuan 6 | Data Preparation for ML — Encoding, StandardScaler, Train-Test Split | [Pertemuan6_Rexxy_Andrew_Gunawan_240401010223.ipynb](https://colab.research.google.com/drive/1h_3o43HBNUEaRk75k7jFuZFHnBEhAoDh?usp=sharing) |
-| 7 | Pertemuan 7 | Supervised Learning — Regresi Linear, Evaluasi Model, Residual Plot | [Pertemuan7_Rexxy_Andrew_Gunawan_240401010223.ipynb](https://colab.research.google.com/drive/1K0UIYBa8l8IY3mxSw1dl3p39w5PEEQ1T?usp=sharing) |
+| 1 | Pertemuan 1 | Pengantar Python untuk Data Science — Output, Variabel, List, Fungsi | [Pertemuan1_Rexxy_Andrew_Gunawan_240401010223.ipynb](https://colab.research.google.com/drive/1xGI-L4yuSLaBaCtIbVc9hZkfU2EP7gZw?authuser=3) |
+| 2 | Pertemuan 2 | Pandas & NumPy — Eksplorasi Dataset Titanic, Filtering, Groupby | [Pertemuan2_Rexxy_Andrew_Gunawan_240401010223.ipynb](https://colab.research.google.com/drive/1CUyC7dvUh29VcOi089pxHkUCKGd8XN9w?authuser=3#scrollTo=9NKwUJGNr_9P) |
+| 3 | Pertemuan 3 | Data Cleaning — Missing Values, Outlier, Normalisasi String, REST API | [Pertemuan3_Rexxy_Andrew_Gunawan_240401010223.ipynb](https://colab.research.google.com/drive/1zmarKNL2HBfljPbxU1gbHk6Y8crw0ZjX) |
+| 4 | Pertemuan 4 | Statistika Deskriptif & Visualisasi — Distribusi, Korelasi, Heatmap | [Pertemuan4_Rexxy_Andrew_Gunawan_240401010223.ipynb](https://colab.research.google.com/drive/1DQ2Ab2_wuTw1lval5dEl51KTYS2rd5Q4?authuser=3#scrollTo=pXMOdO1Ing1d) |
+| 5 | Pertemuan 5 | Dashboard Visualisasi — Matplotlib Gridspec, Seaborn, Analisis Tips | [Pertemuan5_Rexxy_Andrew_Gunawan_240401010223.ipynb](https://colab.research.google.com/drive/1yBxh8D1CYS6bbPewgat8dq6HeWw0U7G6?authuser=3#scrollTo=Ey21vG3OGo3L) |
+| 6 | Pertemuan 6 | Data Preparation for ML — Encoding, StandardScaler, Train-Test Split | [Pertemuan6_Rexxy_Andrew_Gunawan_240401010223.ipynb](https://colab.research.google.com/drive/1X0U1XpUaC6kUIDqwrLIiLUGXyP-vDbOD?authuser=3) |
+| 7 | Pertemuan 7 | Supervised Learning — Regresi Linear, Evaluasi Model, Residual Plot | [Pertemuan7_Rexxy_Andrew_Gunawan_240401010223.ipynb](https://colab.research.google.com/drive/1TSYeBS-kKpRgWS84i99saP9fu0V7pq0f?authuser=3#scrollTo=DBB-HUxQN2g4) |
 
 ---
 
